@@ -1,4 +1,4 @@
-### 👀The big brother is not watching you, he is drinking tea.
+### 👀The big brother is not watching me, he is drinking tea.
 
 <!--
 **zhuyuhui97/zhuyuhui97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
